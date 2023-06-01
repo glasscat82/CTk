@@ -1,4 +1,4 @@
-# simple class for CustomTkinter
+# Small programs on CustomTkinter
 customtkinter.tomschimansky.com/documentation/
 
 ## Program launch /Password-generator/main.py
